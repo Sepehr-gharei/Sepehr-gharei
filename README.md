@@ -1,7 +1,7 @@
 <img src="github_banner.gif" alt="Computer man" style="width:100%;">
 # 💫 About Me:
 I'm currently working on moviere website<br>I'm a WordPress developer<br>I'm webdesigner<br>I'm video editor<br>
-![github-banner](https://github.com/user-attachments/assets/f3613e2e-2661-4bbc-b1d1-d886cf0cea2e)
+
 
 
 # 💻 Tech Stack:
