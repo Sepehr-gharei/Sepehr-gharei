@@ -1,5 +1,4 @@
-<video width="100%" controls><source src="github_banner.gif" type="video/ogg"></video>
-
+<img src="github_banner.gif" alt="Computer man" style="width:100%;">
 # 💫 About Me:
 I'm currently working on moviere website<br>I'm a WordPress developer<br>I'm webdesigner<br>I'm video editor<br>
 
