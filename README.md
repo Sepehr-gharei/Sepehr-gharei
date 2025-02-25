@@ -1,4 +1,4 @@
-<img src="github.gif_banner" alt="GitHub Banner" width="100%" />
+<video width="100%" controls><source src="github_banner.gif" type="video/ogg"></video>
 
 # 💫 About Me:
 I'm currently working on moviere website<br>I'm a WordPress developer<br>I'm webdesigner<br>I'm video editor<br>
