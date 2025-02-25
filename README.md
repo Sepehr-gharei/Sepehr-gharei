@@ -1,4 +1,4 @@
-<img src="banner-gh.png" alt="Computer man" style="width:100%;">
+<img src="banner-1.png" alt="Computer man" style="width:100%;">
 
 # 💫 About Me:
 
