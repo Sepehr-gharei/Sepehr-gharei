@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 
-- currently working on moviere website
 - a WordPress developer
 - webdesigner
 - video editor
